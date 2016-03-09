@@ -1,6 +1,6 @@
 {
   "name": "angular-utils-disqus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A directive to embed a Disqus comments widget on your AngularJS page",
   "main": "index.js",
   "scripts": {
